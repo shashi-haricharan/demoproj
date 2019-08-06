@@ -1,4 +1,4 @@
-package beautysaloon;
+package beautySalon;
 
 public class DiscountRate {
 
